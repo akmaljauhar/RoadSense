@@ -1,6 +1,6 @@
 streamlit
-streamlit_option_menu
-streamlit_webrtc
+streamlit-option-menu
+streamlit-webrtc
 pandas
 pydeck
 ultralytics
