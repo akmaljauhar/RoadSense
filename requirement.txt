@@ -1,0 +1,7 @@
+streamlit
+streamlit_option_menu
+streamlit_webrtc
+pandas
+pydeck
+ultralytics
+opencv-python
