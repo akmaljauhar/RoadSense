@@ -1,10 +1,3 @@
-opencv-python-headless==4.5.3.56
-streamlit
-streamlit-option-menu
-streamlit-webrtc
-pandas
-pydeck
-ultralytics
 
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
@@ -36,5 +29,8 @@ ipython  # interactive notebook
 psutil  # system utilization
 thop  # FLOPs computation
 streamlit
+streamlit-option-menu
+streamlit-webrtc
 wget
 ffmpeg-python
+pydeck
