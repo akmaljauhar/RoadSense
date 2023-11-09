@@ -1,7 +1,5 @@
 opencv-python
 opencv-python-headless==4.8.0.76
-libgl1
-libgl1-mesa-glx
 streamlit
 streamlit-option-menu
 streamlit-webrtc
