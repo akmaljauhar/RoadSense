@@ -1,4 +1,4 @@
-libgl1
+libgl1-mesa-glx
 opencv-python
 opencv-python-headless==4.8.0.76
 streamlit
