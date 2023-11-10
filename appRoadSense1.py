@@ -27,7 +27,7 @@ selected = option_menu(
 )
 
 if selected == "Home":
-    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Aplikasi RoadSense versi 1</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center;'>Selamat Datang di Aplikasi RoadSense</h1>", unsafe_allow_html=True)
 
 if selected == "Real Time":
     webrtc_streamer(key="key")

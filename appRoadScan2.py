@@ -12,7 +12,7 @@ model_path = "weights/indo.pt"
 
 # Setting page layout
 st.set_page_config(
-    page_title="Object Detection using YOLOv8",  # Setting page title
+    page_title="Road Damage Detection with RoadScan",  # Setting page title
     page_icon="🤖",     # Setting page icon
     layout="wide",      # Setting layout to wide
     initial_sidebar_state="expanded"    # Expanding sidebar by default
@@ -28,7 +28,7 @@ with st.sidebar:
         "Select Model Confidence", 25, 100, 40)) / 100
 
 # Creating main page heading
-st.title("Object Detection using YOLOv8")
+st.title("Road Damage Detection with RoadScan")
 
 uploaded_video = st.file_uploader("Pilih video", type=["mp4", "avi", "mkv"])
 
